@@ -26,4 +26,4 @@ You can check out my portfolio [here](https://samuel-akinboro.netlify.app)
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/samuel-akinboro-4115951ba)
 
-[![trophy](https://github-profile-trophy.vercel.app/victor-akinboro=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/victor-akinbororyo-ma)](https://github.com/ryo-ma/github-profile-trophy)
