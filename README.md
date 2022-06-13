@@ -21,7 +21,7 @@ I am an idealistic and Creative Frontend developer capable of translating beauti
 
 You can check out my portfolio [here](https://samuel-akinboro.netlify.app)
 
-🌱 I’m currently learning Node js to become a fullstack
+💞️ I’m looking to collaborate on any project using React, React native and Node Js
 
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/samuel-akinboro-4115951ba)
