@@ -24,6 +24,6 @@ You can check out my portfolio [here](https://samuel-akinboro.netlify.app)
 💞️ I’m looking to collaborate on any project using React, React native and Node Js
 
 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/samuel-akinboro-4115951ba)
+[LinkedIn](https://www.linkedin.com/in/samuel-akinboro)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=victor-akinboro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=victor-akinboro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
