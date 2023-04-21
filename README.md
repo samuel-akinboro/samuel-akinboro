@@ -27,4 +27,4 @@ You can check out my portfolio [here](https://samuel-akinboro.netlify.app)
 [LinkedIn](https://www.linkedin.com/in/samuel-akinboro)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuel-akinboro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samuel-akinboro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samuel-akinboro&theme=dark)](https://git.io/streak-stats)
