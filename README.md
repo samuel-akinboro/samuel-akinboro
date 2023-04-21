@@ -32,6 +32,8 @@ You can check out my portfolio [here](https://samuel-akinboro.netlify.app)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=samuel-akinboro&theme=dark)](https://git.io/streak-stats)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-akinboro&langs_count=5&theme=tokyonight)]()
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
