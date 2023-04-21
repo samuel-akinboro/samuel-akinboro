@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is 
 ### Akinboro Samuel Oluwasegun
-I am an idealistic and Creative Frontend developer capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on JavaScript, ReactJs and NextJs. I tend to have major, original ideas to create the next big thing.
+I am an idealistic and Creative Frontend developer capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on JavaScript, ReactJs, React Native and NextJs. I tend to have major, original ideas to create the next big thing.
 
 You can check out my portfolio [here](https://samuel-akinboro.netlify.app)
 
@@ -26,4 +26,4 @@ You can check out my portfolio [here](https://samuel-akinboro.netlify.app)
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/samuel-akinboro)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=victor-akinboro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=samuel-akinboro)](https://github.com/ryo-ma/github-profile-trophy)
